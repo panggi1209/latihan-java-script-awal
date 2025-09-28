@@ -21,4 +21,6 @@ alert("Hello world");
     // Biar jelas juga kita coba looping lain, misal forEach
     data.forEach((nilai, index) => {
       console.log("Index " + index + " = " + nilai);
+
     });
+//by panggi yulian permana
